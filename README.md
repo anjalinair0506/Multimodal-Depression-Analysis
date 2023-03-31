@@ -8,7 +8,11 @@ DATASET EEG data MODMA dataset - Lanzhou University
 DATASET DAIC-WOZ (Distress Analysis Interview Corpus Wizard-of-Oz)
 
 Team Members
+
 1.Aditya Sanjay Mhaske
+
 2.Atharv Satish Nikam
+
 3.Anjali Sunil Nair
+
 4.Yashada Hemant Nikam
